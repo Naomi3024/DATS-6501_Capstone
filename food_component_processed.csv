@@ -1,0 +1,46 @@
+,id,fdc_id,name,pct_weight,is_refuse,gram_weight,data_points,min_year_acquired,data_type,description,food_category_id,publication_date
+0,59105,331897,Bone and cartilage,32.4,Y,33.7,60,2010.0,foundation_food,"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",,2019/4/1 0:00:00
+1,59106,331897,Total gram weight,100.0,N,104.0,60,2010.0,foundation_food,"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",,2019/4/1 0:00:00
+2,59107,331897,Separable Lean,57.9,N,60.2,60,2010.0,foundation_food,"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",,2019/4/1 0:00:00
+3,59108,331897,Handling loss,1.5,N,1.5,60,2010.0,foundation_food,"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",,2019/4/1 0:00:00
+4,59109,331897,Edible portion,57.9,N,60.2,60,2010.0,foundation_food,"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",,2019/4/1 0:00:00
+5,59110,331897,Skin and separable fat,8.7,Y,9.0,60,2010.0,foundation_food,"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",,2019/4/1 0:00:00
+6,59918,746758,Connective tissue,0.3,Y,1.4,24,2011.0,foundation_food,"Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0"" fat, select, cooked, roasted",,2019/12/16 0:00:00
+7,59919,746758,External fat,0.5,Y,2.1,24,2011.0,foundation_food,"Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0"" fat, select, cooked, roasted",,2019/12/16 0:00:00
+8,59920,746758,Handling loss,0.2,N,0.8,24,2011.0,foundation_food,"Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0"" fat, select, cooked, roasted",,2019/12/16 0:00:00
+9,59921,746758,Seam fat,0.5,Y,2.5,24,2011.0,foundation_food,"Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0"" fat, select, cooked, roasted",,2019/12/16 0:00:00
+10,59922,746758,Separable Lean,98.5,N,455.0,24,2011.0,foundation_food,"Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0"" fat, select, cooked, roasted",,2019/12/16 0:00:00
+11,59923,746758,Total gram weight,100.0,N,462.0,24,2011.0,foundation_food,"Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0"" fat, select, cooked, roasted",,2019/12/16 0:00:00
+12,59924,746759,Bone and connective tissue,7.6,Y,21.6,127,2011.0,foundation_food,"Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat, choice, raw",,2019/12/16 0:00:00
+13,59925,746759,External fat,6.1,Y,17.4,248,2011.0,foundation_food,"Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat, choice, raw",,2019/12/16 0:00:00
+14,59926,746759,Handling loss,0.7,N,2.1,248,2011.0,foundation_food,"Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat, choice, raw",,2019/12/16 0:00:00
+15,59927,746759,Seam fat,2.7,Y,7.5,248,2011.0,foundation_food,"Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat, choice, raw",,2019/12/16 0:00:00
+16,59928,746759,Separable Lean,80.2,N,227.0,248,2011.0,foundation_food,"Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat, choice, raw",,2019/12/16 0:00:00
+17,59929,746759,Total gram weight,100.0,N,283.0,248,2011.0,foundation_food,"Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat, choice, raw",,2019/12/16 0:00:00
+18,59930,746759,Connective tissue,7.6,Y,21.5,121,2011.0,foundation_food,"Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat, choice, raw",,2019/12/16 0:00:00
+19,59931,746759,Lip fat,3.7,Y,10.4,121,2011.0,foundation_food,"Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat, choice, raw",,2019/12/16 0:00:00
+20,59932,746759,Lip lean,2.4,N,6.8,121,2011.0,foundation_food,"Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat, choice, raw",,2019/12/16 0:00:00
+21,59933,746760,Bone and connective tissue,0.6,Y,1.6,96,2011.0,foundation_food,"Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",,2019/12/16 0:00:00
+22,59934,746760,External fat,0.9,Y,2.7,96,2011.0,foundation_food,"Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",,2019/12/16 0:00:00
+23,59935,746760,Handling loss,0.4,N,1.2,96,2011.0,foundation_food,"Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",,2019/12/16 0:00:00
+24,59936,746760,Seam fat,0.1,Y,0.3,96,2011.0,foundation_food,"Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",,2019/12/16 0:00:00
+25,59937,746760,Separable Lean,98.3,N,284.0,96,2011.0,foundation_food,"Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",,2019/12/16 0:00:00
+26,59938,746760,Total gram weight,100.0,N,289.0,96,2011.0,foundation_food,"Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",,2019/12/16 0:00:00
+27,59939,746761,Total gram weight,100.0,N,514.0,84,2011.0,foundation_food,"Beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",,2019/12/16 0:00:00
+28,59940,746761,Handling loss,0.3,N,1.7,84,2011.0,foundation_food,"Beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",,2019/12/16 0:00:00
+29,59941,746761,Seam fat,0.1,Y,0.4,84,2011.0,foundation_food,"Beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",,2019/12/16 0:00:00
+30,59942,746761,Separable Lean,98.2,N,505.0,84,2011.0,foundation_food,"Beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",,2019/12/16 0:00:00
+31,59943,746761,Bone and connective tissue,0.5,Y,2.7,84,2011.0,foundation_food,"Beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",,2019/12/16 0:00:00
+32,59944,746761,External fat,0.9,Y,4.7,84,2011.0,foundation_food,"Beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",,2019/12/16 0:00:00
+33,59945,746762,Bone and connective tissue,24.5,Y,125.0,97,2011.0,foundation_food,"Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8"" fat, select, raw",,2019/12/16 0:00:00
+34,59946,746762,External fat,9.4,Y,47.8,97,2011.0,foundation_food,"Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8"" fat, select, raw",,2019/12/16 0:00:00
+35,59947,746762,Handling loss,0.7,N,3.7,97,2011.0,foundation_food,"Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8"" fat, select, raw",,2019/12/16 0:00:00
+36,59948,746762,Seam fat,5.3,Y,27.2,97,2011.0,foundation_food,"Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8"" fat, select, raw",,2019/12/16 0:00:00
+37,59949,746762,Separable Lean,64.5,N,329.0,97,2011.0,foundation_food,"Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8"" fat, select, raw",,2019/12/16 0:00:00
+38,59950,746762,Total gram weight,100.0,N,510.0,97,2011.0,foundation_food,"Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8"" fat, select, raw",,2019/12/16 0:00:00
+39,59951,746763,Bone and connective tissue,28.6,Y,103.0,106,2011.0,foundation_food,"Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8"" fat, choice, cooked, grilled",,2019/12/16 0:00:00
+40,59952,746763,External fat,9.2,Y,33.0,106,2011.0,foundation_food,"Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8"" fat, choice, cooked, grilled",,2019/12/16 0:00:00
+41,59953,746763,Handling loss,0.6,N,2.0,106,2011.0,foundation_food,"Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8"" fat, choice, cooked, grilled",,2019/12/16 0:00:00
+42,59954,746763,Seam fat,4.7,Y,16.9,106,2011.0,foundation_food,"Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8"" fat, choice, cooked, grilled",,2019/12/16 0:00:00
+43,59955,746763,Separable Lean,57.0,N,205.0,106,2011.0,foundation_food,"Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8"" fat, choice, cooked, grilled",,2019/12/16 0:00:00
+44,59956,746763,Total gram weight,100.0,N,360.0,106,2011.0,foundation_food,"Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8"" fat, choice, cooked, grilled",,2019/12/16 0:00:00
